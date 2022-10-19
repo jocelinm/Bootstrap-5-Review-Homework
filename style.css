@@ -6,23 +6,19 @@ body{
     background-color:#fcf9f7;
 }
 .gradient{
-    background: rgb(152,3,3);
-    background: linear-gradient(
-    90deg,
-     rgba(152,3,3,1) 0%,
-     rgba(152,3,3,1) 7%,
-     rgba(152,3,3,1) 12%);
+    background: rgb(255,0,0);
+background: linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(255,128,0,1) 35%, rgba(255,209,0,1) 100%);
 }
 
 .page-header{
     margin-top:4rem;
     font-size:1.25rem;
-    color:#ff5500;
+    color:#070707;
     
 
 }
 .feature{
-    color:#ff5500;
+    color:#050505;
 }
 .feature ul{
     padding-left: 2rem;
@@ -36,7 +32,7 @@ body{
     margin-bottom: 1rem;
 }
 .icon{
-    color:#ff5500;
+    color:#000000;
     height:5rem;
     width:5rem;
     font-size:1.75rem;
@@ -47,17 +43,18 @@ body{
 }
 
 .gallery {
-    color: #ff5500;
-    background-color:#980303;
+    color: #000000;
+    background: rgb(255,0,0);
+background: linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(255,128,0,1) 35%, rgba(255,209,0,1) 100%);
 }
 .gallery img {
     border-radius:5%;
 }
 .services{
-    color: #ff5500;
+    color: #000000;
 }
  footer{
-    color:#ff5500;
+    color:#000000;
     font-size: 1rem;
     margin: 0;
     padding: 1rem;
